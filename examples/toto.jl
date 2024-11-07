@@ -1,1 +1,3 @@
-using tempo.jl
+using tempo
+
+f(3,5)
